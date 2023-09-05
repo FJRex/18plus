@@ -1,0 +1,98 @@
+﻿{
+"站名":"99女色",
+"主页url":"http://www.tengxun.us/",
+"直接播放": "1",
+"列表显示": "0",
+"横图显示": "0",
+"分类":"精品推荐$qqshow1",
+"数组": "class=\"myui-vodlist__thumb lazyload\">&&<span class=\"pic-tag pic-tag-top\">",
+"图片":"original=\"&&\"",
+"标题":"title=\"&&\"",
+"链接":"href=\"&&\"",
+"搜索url": "https://www.tengxun.us/678/qqsearch{wd}----------{pg}---.html",
+"搜索模式":"0",
+"搜索数组":class=\"myui-vodlist__thumb lazyload\">&&<span class=\"pic-tag pic-tag-top\">",
+"搜索图片":"data-original=\"&&\"",
+"搜索标题":"title=\"&&\"",
+"搜索链接":"href=\"&&\"",
+"播放二次截取": "",
+"播放数组": "<a class=\"myui-vodlist__thumb picture\">&&<span class=\"play hidden-xs\">",
+"列表二次截取": "",
+"播放列表": "<a&&/a>",
+"播放标题": "title=\"&&\"",
+"播放链接": "href=\"&&\"",
+"免嗅":"0",
+"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
+"过滤词":"=http#.jpg#.png#.ico#.gif#.js",
+"分类url":"https://www.tengxun.us/678/{cateId}--{by}---{letter}---{catePg}---.html",
+"筛选":{
+"qqshow1":[
+{
+"key":"cateId",
+"name":"类型","value":[
+{"v":"","n":"全部"},
+{"v":"qqshow32","n":"国产情色"},
+{"v":"qqshow10","n":"主播直播"},
+{"v":"qqshow8","n":"91探花"},
+{"v":"qqshow7","n":"网红流出"},
+{"v":"qqshow9","n":"网曝门"},
+{"v":"qqshow33","n":"萝莉少女"},
+{"v":"qqshow6","n":"自拍偷拍"},
+{"v":"qqshow21","n":"东南亚AV"},
+{"v":"qqshow27","n":"唯美港姐"},
+{"v":"qqshow82","n":"明星换脸"},
+{"v":"qqshow12","n":"台湾辣妹"},
+{"v":"qqshow28","n":"传媒出品"},
+{"v":"qqshow11","n":"古装扮演"},
+{"v":"qqshow45","n":"风情扮演"},
+{"v":"qqshow17","n":"女同性恋"},
+{"v":"qqshow20","n":"伦理三级"},
+{"v":"qqshow22","n":"男同性恋"},
+{"v":"qqshow86","n":"抖音短视频"}
+]
+},
+{
+"key":"letter",
+"name":"排序","value":[
+{"n":"全部","v":""},
+{"v":"A","n":"A"},
+{"v":"B","n":"B"},
+{"v":"C","n":"C"},
+{"v":"D","n":"D"},
+{"v":"E","n":"E"},
+{"v":"F","n":"F"},
+{"v":"G","n":"G"},
+{"v":"H","n":"H"},
+{"v":"I","n":"I"},
+{"v":"J","n":"J"},
+{"v":"K","n":"K"},
+{"v":"L","n":"L"},
+{"v":"M","n":"M"},
+{"v":"N","n":"N"},
+{"v":"O","n":"O"},
+{"v":"P","n":"P"},
+{"v":"Q","n":"Q"},
+{"v":"R","n":"R"},
+{"v":"S","n":"S"},
+{"v":"T","n":"T"},
+{"v":"U","n":"U"},
+{"v":"V","n":"V"},
+{"v":"W","n":"W"},
+{"v":"X","n":"X"},
+{"v":"Y","n":"Y"},
+{"v":"Z","n":"Z"}
+]
+},
+{
+"key":"by",
+"name":"排序",
+"value":[
+{"n":"全部","v":""},
+{"n":"时间","v":"time"},
+{"n":"人气","v":"hits"},
+{"n":"评分","v":"score"}
+]
+}
+]
+}
+}
